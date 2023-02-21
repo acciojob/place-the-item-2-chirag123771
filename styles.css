@@ -1,2 +1,24 @@
-
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.i3{
+	height:80px;
+	width:80px;
+	background-color:green;
+	font-size:40px;
+}
+.i1{
+	height:80px;
+	width:80px;
+	background-color:red;
+	font-size:40px;
+}
+.i2{
+	height:80px;
+	width:80px;
+	background-color:blue;
+	font-size:40px;
+}
 /* Your CSS Code here. */
